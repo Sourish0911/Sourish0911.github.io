@@ -16,24 +16,37 @@ Education
 
 Work experience
 ======
-* Summer 2022: Computer Vision Research Intern
+* Summer 2023: Computer Vision Research Intern
   * Takenaka Corporation,Tokyo, Japan 
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Duties included: Development of Human Action Recognition pipeline for Construction site
+  * Supervisor: Dr. Hideo Kitahara
+
+* January 2021 - Present: Research Assistant
+  * IIT Hyderabad, India
+  * Duties included: Support Dr. Abhinav in research activities for Sponsored Projects
+  * Supervisor: Dr. Abhinav Kumar
 
 * September 2020 - December 2021: Research and Development Engineer
   * Denso, Gurugram, India
-  * Duties included: Merging pull requests
+  * Duties included: Development of Engine Control Unit Software
   * Supervisor: Mr. Yohji Yokota
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Deep Learning
+  * PyTorch
+  * TensorFlow
+  * RNN, Transformers,LSTM, GANs, Diffusion Models, CNN
+* Embedded C
+* Matlab
+* ROS 2.0
+* Digital Signal Processing
+* Speech Signal Processing
+* OpenCV
+* C++
+* Wireless Communication
+* Digital Communication System
 
 Publications
 ======
