@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MTech in Electrical Engineering, Indian Institute of Technology Hyderabad, 2024(expected)
+* BTech in Electronics and Communcation Engineering, SRM University Chennai, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2022: Computer Vision Research Intern
+  * Takenaka Corporation,Tokyo, Japan 
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
+* September 2020 - December 2021: Research and Development Engineer
+  * Denso, Gurugram, India
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Mr. Yohji Yokota
   
 Skills
 ======
