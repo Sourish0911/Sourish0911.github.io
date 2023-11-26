@@ -47,17 +47,14 @@ Skills
 * C++
 * Wireless Communication
 * Digital Communication System
+  
+Service and leadership
+======
+* Team Leader - IFFCO-MITSUBISHI Hackathon 2022, 1st Position. Prize money - $1200 USD
+* Currently signed in to 4 different slack teams
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-
-  
-
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
