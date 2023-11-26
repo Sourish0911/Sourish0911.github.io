@@ -6,7 +6,7 @@ excerpt: 'In this study, the design of a compact narrowband monopole antenna for
 date: 2022-05-05
 venue: 'International Journal of Antennas and Propagation'
 paperurl: 'https://downloads.hindawi.com/journals/ijap/2022/4663488.pdf'
-citation: 'Ananda Venkatesan Boologam, Kalimuthu Krishnan, Sandeep Kumar Palaniswamy, Sachin Kumar, Shreya Bhowmik, Nivesh Sharma, Deepesh Vaish, Sourish Chatterjee, 2022. https://doi.org/10.1155/2022/4663488. &quot;On the Design and Development of Planar Monopole Antenna for Bone Crack/Void Detection <i>International Journal of Antennas and Propagation</i>'
+citation: 'Ananda Venkatesan Boologam, Kalimuthu Krishnan, Sandeep Kumar Palaniswamy, Sachin Kumar, Shreya Bhowmik, Nivesh Sharma, Deepesh Vaish, Sourish Chatterjee, 2022. https://doi.org/10.1155/2022/4663488. "On the Design and Development of Planar Monopole Antenna for Bone Crack/Void Detection" <i>International Journal of Antennas and Propagation</i>'
 ---
 
 
