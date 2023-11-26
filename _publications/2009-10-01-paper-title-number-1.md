@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "On the Design and Development of Planar Monopole Antenna for Bone Crack/Void Detection"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2022-05-05
+venue: 'International Journal of Antennas and Propagation'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Ananda Venkatesan Boologam, Kalimuthu Krishnan, Sandeep Kumar Palaniswamy, Sachin Kumar, Shreya Bhowmik, Nivesh Sharma, Deepesh Vaish, Sourish Chatterjee, 2022. https://doi.org/10.1155/2022/4663488. &quot;"On the Design and Development of Planar Monopole Antenna for Bone Crack/Void Detection" 1.&quot; <i>International Journal of Antennas and Propagation</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+In this study, the design of a compact narrowband monopole antenna for bone crack detection is presented. The proposed antenna consists of a modified hexagon-shaped radiator with six triangular slits integrated on its bottom periphery, a rectangular-shaped ground plane, and a microstrip feed line.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://downloads.hindawi.com/journals/ijap/2022/4663488.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+<!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
