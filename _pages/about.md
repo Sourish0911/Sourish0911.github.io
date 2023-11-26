@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello, Welcome to my home page. I am Sourish Chatterjee. I am Master's student at IIT Hyderabad in Department of Electrical Engineering. My specialisation is Signal Processing and Communication. I am a Data Science enthusiast with my experience in Image Procesing and Speech Processing projects.
+Hi, Welcome to my home page. 
+
+I am Sourish Chatterjee. I am Master's student at IIT Hyderabad in Department of Electrical Engineering. My specialisation is Signal Processing and Communication. I am a Data Science enthusiast with my experience in Image Procesing and Speech Processing projects.
 
 I like to participate in Kaggle Competitions.
 
