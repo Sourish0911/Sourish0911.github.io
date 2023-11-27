@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Bengali ASR Challenge"
+excerpt: "Develop speech to text pipeline for Bengali speech out of domain data."
 collection: portfolio
 ---
 

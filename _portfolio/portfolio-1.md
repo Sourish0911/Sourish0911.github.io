@@ -1,6 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "NuerIPS Machine Unlearning Challenge"
+excerpt: "Fully erasing the influence of the data requested to be deleted is challenging since,
+aside from simply deleting it from databases where it’s stored, it also requires erasing the
+influence of that data on other artifacts such as trained machine learning models."
 collection: portfolio
 ---
 
